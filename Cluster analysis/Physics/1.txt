@@ -1,0 +1,7 @@
+Reconnection occurs when the magnetic field lines in plasma -- the collection of atoms and charged electrons and atomic nuclei, or ions, that make up 99 percent of the visible universe -- converge and forcefully snap apart. Electrons that exert a varying degree of pressure form an important part of this process as reconnection takes place.
+
+The research team found that variation in the electron pressure develops along the magnetic field lines in the region undergoing reconnection. This variation balances and keeps a strong electric current inside the plasma from growing out of control and halting the reconnection process. It is this balancing act that makes possible fast reconnection.
+
+"The main issue we addressed is how reconnection can take place so quickly," said Will Fox, lead author of a paper that detailed the findings in March in the journal Physical Review Letters. "Here we've shown experimentally how electron pressure accelerates the process."
+
+The physics team built a picture of the gradient and other parameters of reconnection from research conducted on the Magnetic Reconnection Experiment (MRX) at PPPL, the leading laboratory device for studying reconnection. The findings marked the first experimental confirmation of predictions made by earlier simulations performed by other researchers of the behavior of ions and electrons during reconnection. "The experiments demonstrate how the plasma can sustain a large electric field while preventing a large electric current from building up and halting the reconnection process," said Fox.

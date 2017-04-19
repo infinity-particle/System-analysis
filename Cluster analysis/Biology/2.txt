@@ -1,0 +1,35 @@
+Research conducted at the University of Adelaide has discovered that bees have much better vision than was previously known, offering new insights into the lives of honey bees, and new opportunities for translating this knowledge into fields such as robot vision.
+
+The findings come from "eye tests" given to western honey bees (also known as European honey bees, Apis mellifera) by postdoctoral researcher Dr Elisa Rigosi (Department of Biology, Lund University, Sweden) in the Adelaide Medical School, under the supervision of Dr Steven Wiederman (Adelaide Medical School, University of Adelaide) and Professor David O'Carroll (Department of Biology, Lund University, Sweden).
+
+The results of their work are published today in the Nature journal Scientific Reports.
+
+Bee vision has been studied ever since the pioneering research of Dr Karl von Frisch in 1914, which reported bees' ability to see colors through a clever set of training experiments.
+
+"Today, honey bees are still a fascinating model among scientists, in particular neuroscientists," Dr Rigosi says.
+
+"Among other things, honey bees help to answer questions such as: how can a tiny brain of less than a million neurons achieve complex processes, and what are its utmost limits? In the last few decades it has been shown that bees can see and categorize objects and learn concepts through vision, such as the concept of 'symmetric' and 'above and below'.
+
+"But one basic question that has only been partially addressed is: what actually is the visual acuity of the honey bee eye? Just how good is a bee's eyesight?"
+
+Dr Wiederman says: "Previous researchers have measured the visual acuity of bees, but most of these experiments have been conducted in the dark. Bright daylight and dark laboratories are two completely different environments, resulting in anatomical and physiological changes in the resolution of the eye.
+
+"Photoreceptors in the visual system detect variations in light intensity. There are eight photoreceptors beyond each hexagonal facet of a bee's compound eye, and their eyes are made out of thousands of facets! Naturally, we expected some differences in the quality of bees' eyesight from being tested in brightly lit conditions compared with dim light," he says.
+
+Dr Rigosi, Dr Wiederman and Professor O'Carroll set out to answer two specific questions: first, what is the smallest well-defined object that a bee can see? (ie, its object resolution); and second, how far away can a bee see an object, even if it can't see that object clearly? (ie, maximum detectability limit).
+
+To do so, the researchers took electrophysiological recordings of the neural responses occurring in single photoreceptors in a bee's eyes. The photoreceptors are detectors of light in the retina, and each time an object passes into the field of vision, it registers a neural response.
+
+Dr Rigosi says: "We found that in the frontal part of the eye, where the resolution is maximized, honey bees can clearly see objects that are as small as 1.9° -- that's approximately the width of your thumb when you stretch your arm out in front of you.
+
+"This is 30% better eyesight than has been previously recorded," she says.
+
+"In terms of the smallest object a bee can detect, but not clearly, this works out to be about 0.6° -- that's one third of your thumb width at arm's length. This is about one third of what bees can clearly see and five times smaller than what has so far been detected in behavioral experiments.
+
+"These new results suggest that bees have the chance to see a potential predator, and thus escape, far earlier than what we thought previously, or perceive landmarks in the environment better than we expected, which is useful for navigation and thus for survival," Dr Rigosi says.
+
+Dr Wiederman says this research offers new and useful information about insect vision more broadly as well as for honey bees.
+
+"We've shown that the honey bee has higher visual acuity than previously reported. They can resolve finer details than we originally thought, which has important implications in interpreting their responses to a range of cognitive experiments scientists have been conducting with bees for years.
+
+"Importantly, these findings could also be useful in our work on designing bio-inspired robotics and robot vision, and for basic research on bee biology," he says.

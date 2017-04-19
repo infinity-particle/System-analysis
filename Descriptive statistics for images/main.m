@@ -9,14 +9,14 @@ fprintf('Food image statistics: \n');
 printDescriptiveStatistic(foodImage);
 fprintf('\n');
 
-marvelImageHistogram = imhist(rgb2gray(treesImage));
+treesImageHistogram = imhist(rgb2gray(treesImage));
 foodImageHistogram = imhist(rgb2gray(foodImage));
  
 figure, imhist(rgb2gray(treesImage));
 figure, imhist(rgb2gray(foodImage));
 
 fprintf('Correlation between images: %.2f\n', corr2(rgb2gray(treesImage), rgb2gray(foodImage)));
-fprintf('Correlation between histograms: %.2f\n', corr2(marvelImageHistogram, foodImageHistogram));
+fprintf('Correlation between histograms: %.2f\n', corr2(treesImageHistogram, foodImageHistogram));
 fprintf('\n');
 
 fprintf('Correlation between trees image layers: \n');

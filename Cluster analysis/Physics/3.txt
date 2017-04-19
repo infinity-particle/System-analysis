@@ -1,0 +1,13 @@
+Hydrogen is both the simplest and the most-abundant element in the universe, so studying it can teach scientists about the essence of matter. And yet there are still many hydrogen secrets to unlock, including how best to force it into a superconductive, metallic state with no electrical resistance.
+
+"Although theoretically ideal for energy transfer or storage, metallic hydrogen is extremely challenging to produce experimentally," said Ho-kwang "Dave" Mao, who led a team of physicists in researching the effect of the noble gas argon on pressurized hydrogen.
+
+It has long been proposed that introducing impurities into a sample of molecular hydrogen, H2, could help ease the transition to a metallic state. So Mao and his team set out to study the intermolecular interactions of hydrogen that's weakly-bound, or "doped," with argon, Ar(H2)2, under extreme pressures. The idea is that the impurity could change the nature of the bonds between the hydrogen molecules, reducing the pressure necessary to induce the nonmetal-to-metal transition. Previous research had indicated that Ar(H2)2 might be a good candidate.
+
+Surprisingly, they discovered that the addition of argon did not facilitate the molecular changes needed to initiate a metallic state in hydrogen. Their findings are published by the Proceedings of the National Academy of Sciences.
+
+The team brought the argon-doped hydrogen up to 3.5 million times normal atmospheric pressure -- or 358 gigapascals -- inside a diamond anvil cell and observed its structural changes using advanced spectroscopic tools.
+
+What they found was that hydrogen stayed in its molecular form even up to the highest pressures, indicating that argon is not the facilitator many had hoped it would be.
+
+"Counter to predictions, the addition of argon did not create a kind of 'chemical pressure' on the hydrogen, pushing its molecules closer together. Rather, it had the opposite effect," said lead author Cheng Ji.

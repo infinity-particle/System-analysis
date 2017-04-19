@@ -1,0 +1,33 @@
+A team of researchers in the United States and Uganda has identified a novel coronavirus in a bat from Uganda that is similar to the one causing Middle East Respiratory Syndrome (MERS) in people, giving further credence to the theory that such viruses originate in bats.
+
+The work, part of the United States Agency for International Development's (USAID's) Emerging Pandemic Threats PREDICT project, was described this week in mBio®, an online open-access journal of the American Society for Microbiology.
+
+Not likely a threat to humans
+
+Laboratory experiments with the virus, named PREDICT/PDF-2180, indicate that while its genetics appear similar to MERS-coronavirus (MERS-CoV), there are significant differences in part of its spike gene -- the segment of the virus responsible for invading cells.
+
+"In its current form, evolution notwithstanding, this virus is probably not going to be a threat to human health," said lead study author Simon J. Anthony, Ph.D., an assistant professor of epidemiology at Columbia University's Mailman School of Public Health and its Center for Infection and Immunity.
+
+By contrast, MERS-CoV itself has been shown to spread from animals such as camels to humans and between humans.
+
+About MERS
+
+MERS, first reported in Saudi Arabia in 2012, is an illness sometimes marked by severe acute respiratory disease with symptoms of fever, cough and shortness of breath. About 4 of every 10 patients with the condition have died, according to the Centers for Disease Control and Prevention.
+
+The PREDICT project, led by the University of California, Davis, is a multicenter global initiative for surveillance and discovery of viruses that could pose a pandemic threat through animal-human transmission of pathogens. In Uganda, PREDICT worked closely with researchers from Gorilla Doctors, a non-governmental organization.
+
+"The discovery of this new virus by a team of field veterinarians and laboratory scientists in Uganda is the result of a tremendous effort to strengthen capacity in the region to better understand potential threats to the health not just of Ugandans, but of people around the world," said co-author Kirsten Gilardi, DVM, Co-Director of the Karen C. Drayer Wildlife Health Center at UC Davis and a regional lead for PREDICT in east-central Africa.
+
+Using a clone to test a virus
+
+For the study, Anthony and colleagues at the UC Davis One Health Institute and with the non-profit organization Gorilla Doctors sequenced the genome of the PDF-2180 virus found in a rectal swab taken from a bat trapped in February 2013 in southwestern Uganda. Overall, the virus was 87 percent identical to MERS-CoV and 91 percent identical to NeoCoV, another coronavirus found in a bat from South Africa. However, part of the spike gene was only 46 percent identical to the one belonging to MERS-CoV.
+
+Next, to test the ability of the virus to spread to humans, researchers at the University of North Carolina constructed an infectious MERS-CoV clone expressing the PDF-2180 spike protein. Viruses derived from the clone could reproduce themselves but could not enter cells expressing DPP4, the receptor normally used by MERS-CoV to infect human cells, or establish new infections either in Vero cells derived from monkeys or in human airway cells from healthy lung donors.
+
+The team plans to repeat the experiments with other viral samples to get a better grasp of what animal-borne viruses pose a risk to human health.
+
+Coronaviruses in bats
+
+The discovery of the virus adds to the growing number of coronaviruses identified in bats, Anthony said, including coronaviruses in South Africa, Mexico, Thailand, the Netherlands, Italy, and China.
+
+"Collectively, these examples demonstrate that the MERS-related coronaviruses are highly associated with bats and are geographically widespread," Anthony said.

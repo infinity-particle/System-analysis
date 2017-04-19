@@ -1,0 +1,13 @@
+Hokkaido University scientists have succeeded in developing a nickel complex that changes color and magnetism when exposed to methanol vapor. The new material can potentially be used not only as a chemical sensor, but also with future rewritable memory devices.
+
+The phenomenon of color changes in a substance, triggered by volatile organic compound vapors or inorganic gas, is called vapochromism. Since its discovery at the end of the last century, scientists have focused their research on developing sensory materials that can visibly show the presence of harmful organic solvents. Furthermore, research on materials that synchronize color and other property changes, such as magnetism, could lead to broader applications.
+
+The research team led by Masako Kato at Hokkaido University focused on developing materials that simultaneously change color and magnetism when exposed to vapors. To date, some iron complexes were known to switch magnetism between "paramagnetism" and "diamagnetism" at room temperature, but usually fall into stable states when temperatures are lower.
+
+It was therefore important to develop materials that can change magnetism under a wider temperature range. The team focused on a nickel(II)-quinonoid complex. "As the complex changes magnetism when its coordination structure changes, we hypothesized that if solvent vapors could bind to nickel ions directly, the complex would simultaneously change colors and magnetism," says Masako Kato.
+
+According to their research, a nickel(II)-quinonoid complex was placed in a high density methanol vapor environment. Once methanol molecules bonded with the complex, the coordination structure was transformed followed by a change in color from deep purple to orange. When exposed to vapors such as ethanol and chloroform, methanol molecules detached from the complex, reversing its color to deep purple.
+
+In collaboration with Noriaki Matsunaga at Hokkaido University, they found that the color changes occurred along with changes in magnetism. When methanol molecules were removed from the complex, it switched from paramagnetism to diamagnetism, and both states could be maintained under a wide temperature range.
+
+"This research marks the first time that vapor molecules have successfully changed magnetic states of nickel complexes," says Kato. "As the nickel complex reacts differentially to ethanol and methanol, it could be used in the future as a sensor material selective to methanol. We expect that further applications of this method may lead to novel materials that can record and erase data using vapor."

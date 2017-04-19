@@ -2,12 +2,12 @@ function printDescriptiveStatistic(image)
 grayscaleImage = rgb2gray(image);
 averageValue = mean2(grayscaleImage);
 standardDeviation = std2(grayscaleImage);
-imageMedian = median(median(grayscaleImage));
+imageMedian = median(median(imhist(grayscaleImage)));
 moda = mode(mode(grayscaleImage));
 
-fprintf('\tAverage value = %d\n', averageValue);
-fprintf('\tStandart deviation = %d\n', standardDeviation);
-fprintf('\tMedian = %d\n', imageMedian);
-fprintf('\tMode = %d\n', moda);
+fprintf('\tAverage value = %.3d\n', averageValue);
+fprintf('\tStandart deviation = %.3d\n', standardDeviation);
+fprintf('\tMedian = %.3d\n', imageMedian);
+fprintf('\tMode = %.3d\n', moda);
 end
 

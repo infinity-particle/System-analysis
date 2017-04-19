@@ -1,0 +1,27 @@
+To stand up to the heat and pressure of next-generation rocket engines, the composite fibers used to make them should be fuzzy.
+
+The Rice University laboratory of materials scientist Pulickel Ajayan, in collaboration with NASA, has developed "fuzzy fibers" of silicon carbide that act like Velcro and stand up to the punishment that materials experience in aerospace applications.
+
+The fibers strengthen composites used in advanced rocket engines that have to withstand temperatures up to 1,600 degrees Celsius (2,912 degrees Fahrenheit). Ceramic composites in rockets now being developed use silicon carbide fibers to strengthen the material, but they can crack or become brittle when exposed to oxygen.
+
+The Rice lab embedded silicon carbide nanotubes and nanowires into the surface of NASA's fibers. The exposed parts of the fibers are curly and act like the hooks and loops that make Velcro so valuable -- but on the nanoscale.
+
+The result, according to lead researchers Amelia Hart, a Rice graduate student, and Chandra Sekhar Tiwary, a Rice postdoctoral associate, creates very strong interlocking connections where the fibers tangle; this not only makes the composite less prone to cracking but also seals it to prevent oxygen from changing the fiber's chemical composition.
+
+The work is detailed in the American Chemical Society journal Applied Materials and Interfaces.
+
+The work began when Hart, who had been studying the growth of carbon nanotubes on ceramic wool, met Michael Meador, then a scientist at NASA's Glenn Research Center, Cleveland, at the kickoff reception for Rice's Materials Science and NanoEngineering Department. (Meador is now nanotechnology project manager at NASA's Game Changing Technologies program.)
+
+That led to a fellowship in Cleveland and the chance to combine her ideas with those of NASA research engineer and paper co-author Janet Hurst. "She was partially converting silicon carbide from carbon nanotubes," Hart said. "We used her formulation and my ability to grow nanotubes and figured out how to make the new composite."
+
+Back at Rice, Hart and her colleagues grew their hooks and loops by first bathing silicon carbide fiber in an iron catalyst and then using water-assisted chemical vapor deposition, a process developed in part at Rice, to embed a carpet of carbon nanotubes directly into the surface. These become the template for the final product. The fibers were then heated in silicon nanopowder at high temperature, which converts the carbon nanotubes to silicon carbide "fuzz."
+
+The researchers hope their fuzzy fibers will upgrade the strong, light and heat-resistant silicon carbide fibers that, when put in ceramic composites, are being tested for robust nozzles and other parts in rocket engines. "The silicon carbide fiber they already use is stable to 1,600 C," Tiwary said. "So we're confident that attaching silicon carbide nanotubes and wires to add strength will make it even more cutting-edge."
+
+The new materials should also make entire turbo engines significantly lighter, Hart said. "Before they used silicon carbide composites, many engine parts were made of nickel superalloys that had to incorporate a cooling system, which added weight to the whole thing," she said. "By switching to ceramic matrix composites, they could take out the cooling system and go to higher temperatures. Our material will allow the creation of larger, longer-lasting turbo jet engines that go to higher temperatures than ever before."
+
+Friction and compression testing showed the lateral force needed to move silicon carbide nanotubes and wires over each other was much greater than that needed to slide past either plain nanotubes or unenhanced fibers, the researchers reported. They were also able to easily bounce back from high compression applied with a nano-indenter, which showed their ability to resist breaking down for longer amounts of time.
+
+Tests to see how well the fibers handled heat showed plain carbon nanotubes burning away from the fibers, but the silicon carbide nanotubes easily resisted temperatures of up to 1,000 C.
+
+Hart said the next step will be to apply her conversion techniques to other carbon nanomaterials to create unique three-dimensional materials for additional applications.

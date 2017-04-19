@@ -1,0 +1,29 @@
+An outstanding conundrum on what happens to the laser energy after beams are fired into plasma has been solved in newly-published research at the University of Strathclyde.
+
+The study discovered that the same forces that produce a bubble in plasma in the laser-plasma wakefield accelerator produce two additional low-energy but high-charge electron beams simultaneously with a low charge high energy beam. These high charge beams can have a thousand times more charge than the high energy beam.
+
+Plasma, the state in which nearly all of the universe exists, can support electric fields that are 1,000 to 10,000 times higher than in conventional accelerators, simply by separating the positive and negative charged particles that makes up the plasma medium, which is quasi-neutral.
+
+This can easily be achieved using an intense laser pulse, the light pressure of which pushes electrons out of its way, leaving behind the much heavier ions which remain in place and exert an attractive force on the displaced electrons. The displaced electrons then oscillate around the stationary ions resulting in a wake behind the laser pulse, in a similar manner to the wake behind a boat.
+
+Because the laser pulse travels at a velocity close to that of light in vacuum, the wake can track and accelerate charged particles rapidly to very high energies, over extremely short lengths.
+
+The research paper, entitled Three electron beams from a laser-plasma wake?eld accelerator and the energy apportioning question, has been published in Scientific Reports.
+
+Professor Dino Jaroszynski, of Strathclyde's Department of Physics, led the study. He said: "The intense laser pulse we used, and the acceleration of the wake it creates, lead to a very compact laser wakefield accelerator, which is millimetres long, rather than tens of metres long, for an equivalent conventional accelerator. The plasma wake forms into something like a bubble-shaped, laser-powered miniature Van de Graaf accelerator, which travels at close to the speed of light.
+
+"Some of the laser energy is converted to electrostatic energy of the plasma bubble, which has a diameter of several microns. Conventional accelerators store their microwave energy in copper or superconducting cavities, which have limited power-carrying capability.
+
+"An interesting conundrum that has not been considered before is the question of where laser energy goes after being deposited in plasma. We know where some of this energy goes because of the presence of high-energy electrons emitted in a narrow, forward directed beam.
+
+"One of these beams is emitted by a sling-shot action into a broad forward-directed cone, with several MeV (mega electron volt) energies and nanocoulomb-level charge. Paradoxically, another beam is emitted in the backward direction, which has similar charge but an energy of around 200 keV (kilo electron volt). These beams carry off a significant amount of energy from the plasma bubble.
+
+"It is interesting to observe that answering a very basic question -- where does the laser energy go? -- yields surprising and paradoxical answers. Introducing a new technology, such as the laser-wakefield accelerator, can change the way we think about accelerators. The result is a very novel source of several charge particle beams emitted simultaneously.
+
+"My research group has shown that the wakefield accelerator produces three beams, two of which are low energy and high charge, and the third, high energy and low charge."
+
+Dr Enrico Brunetti, a Research Fellow in Strathclyde's Department of Physics and a member of the research group, said: "These beams can provide a useful high flux of electrons or bremsstrahlung photons over a large area, which can be used for imaging applications, or for investigating radiation damage in materials. If not properly dumped, they can, however, have undesirable side-effects, such as causing damage to equipment placed close to the accelerator.
+
+"This is a particular concern for longer accelerators, which often use plasma wave guides based on capillaries to guide the laser beam over long distances. These low energy, high charge beams also carry a large amount of energy away from the plasma, setting a limit to the efficiency of laser-wakefield accelerators.
+
+"This is an issue which needs to be taken into account in the future design and construction of laser-wakefield accelerators."
