@@ -62,5 +62,5 @@ xlabel('Biology');
 ylabel('Chemistry');
 zlabel('Physics');
 
-view(50,30);
+view(50,30), rotate3d on;
 grid on

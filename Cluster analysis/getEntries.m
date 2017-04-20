@@ -4,6 +4,7 @@ function entries = getEntries( article, dictionary )
         term = dictionary(i);
         term = term{1};
         term = lower(term);
+        %fprintf('%s\n', term);
         entries = entries + length(strfind(article, term));
     end
 end

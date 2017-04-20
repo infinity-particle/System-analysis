@@ -11,7 +11,7 @@ P = [m1; m2; m3; m4; m5];
 represP = xlsread('training.xlsx');
 
 net = newsom(represP, countNeurons);
-net.trainParam.epochs = 100;
+net.trainParam.epochs = 500;
 net = train(net, represP);
 
 a = sim(net, P);
